@@ -44,3 +44,4 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     window = MainWindow(buscaminas.juego)
     sys.exit(app.exec_())
+
